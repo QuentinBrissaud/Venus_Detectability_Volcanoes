@@ -1,0 +1,16 @@
+extract_DEM_values.py
+fetch_waveforms.py
+data_tonga/
+beams/
+config/
+detections/
+figures/
+FK/
+trajectories/
+*.SAC
+launch_detections*
+process_data.ipynb
+process_tif_DEM.ipynb
+test_amplitude_model.ipynb
+tes_flattening.ipynb
+.ipynb_checkpoints
